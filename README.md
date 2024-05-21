@@ -43,7 +43,7 @@ public class Roy8 {
   }
 
   public static void main(String[] args) {
-    Roy8a yo = new Roy8a("Abhigyan Tripathi", "roy8.a", "Lima, Perú", "tu_usuario_de_instagram");
+    Roy8a yo = new Roy8a("Roy Ochoa", "pikiget", "Lima, Perú", "roy8.a");
     System.out.println(yo);
   }
 }
