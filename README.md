@@ -33,7 +33,19 @@ public class Roy8 {
     this.ubicacion = ubicacion;
     this.instagram = instagram;
   }
+  @Override
+  public String toString() {
+    return "**Información del Usuario:**\n" +
+           "Nombre: " + nombre + "\n" +
+           "Usuario: " + usuario + "\n" +
+           "Ubicación: " + ubicacion + "\n" +
+           "Instagram: " + instagram;
+  }
 
+  public static void main(String[] args) {
+    Roy8a yo = new Roy8a("Abhigyan Tripathi", "roy8.a", "Lima, Perú", "tu_usuario_de_instagram");
+    System.out.println(yo);
+  }
 }
 ```
 
