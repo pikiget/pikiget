@@ -20,7 +20,7 @@ ser programador full stack a través de pequeños proyectos.
 </p>
 
 ```Java
-public class Roy8 {
+public class Roy8a {
   private String nombre;
   private String usuario;
   private String ubicacion;
