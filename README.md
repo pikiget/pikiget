@@ -27,7 +27,7 @@ public class Roy8a {
   private String instagram;
 
   //Constructor :v
-  public Roy8a(String nom, String usu, String ubi, String ins){
+  public Roy8a(String nombre, String usuario, String ubicacion, String instagram){
     this.nombre = nombre;
     this.usuario = usuario;
     this.ubicacion = ubicacion;
