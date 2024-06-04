@@ -49,9 +49,3 @@ public class Roy8a {
 }
 ```
 
-
-
-
-Credit: [abhigyantrips](https://github.com/abhigyantrips)
-
-Last Edited on: 21/05/2024
